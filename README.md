@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davide-giacomini&show_icons=true&theme=dark)
+![GitHub Metrics](https://github.com/davide-giacomini/davide-giacomini/blob/main/github-metrics.svg)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davide-giacomini&layout=compact&theme=dark)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=davide-giacomini&theme=dark)
-
-![GitHub Metrics](https://github.com/davide-giacomini/davide-giacomini/blob/main/metrics.svg)
 
