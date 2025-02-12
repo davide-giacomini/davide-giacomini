@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davide-giacomini&layout=compact&theme=dark)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=davide-giacomini&theme=dark)
+
+![GitHub Metrics](https://github.com/davide-giacomini/davide-giacomini/blob/main/metrics.svg)
+
